@@ -6,3 +6,6 @@ I've made a javascript code it adds a input type to HTML, please watch the video
 * You can inspect the two picture on repository for extended usage.
 * Link for usage : https://www.youtube.com/watch?v=hhIcXfe2aXk
 * Enjoy.
+# v2 
+* Bugs fixed.
+* More improvements.

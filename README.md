@@ -9,3 +9,4 @@ I've made a javascript code it adds a input type to HTML, please watch the video
 # v2 
 * Bugs fixed.
 * More improvements.
+* Link : https://www.youtube.com/watch?v=J0Oq1H9Qgk0
